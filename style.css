@@ -28,6 +28,8 @@ body {
     background-color: var(--card-font-color);
     text-align: center;
     height: 100%;
+    transform-style: preserve-3d;
+    transition: ;
 }
 
 .cartao__conteudo h3 {

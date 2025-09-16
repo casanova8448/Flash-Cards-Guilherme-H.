@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'conhecimentos gerais',
-    'pergunta',
-    'resposta'
+    'Qual foi o primeiro país a conquistar a independência na América Latina?',
+    'Haiti (em 1804)'
 )
 
 criaCartao(
@@ -42,18 +42,18 @@ criaCartao(
 
 criaCartao(
     'conhecimentos gerais',
-    'pergunta',
-    'resposta'
+    'Em que ano o homem pisou na Lua pela primeira vez?',
+    '1969'
 )
 
 criaCartao(
     'conhecimentos gerais',
-    'pergunta',
-    'resposta'
+    'Qual é o maior órgão do corpo humano?',
+    'A pele'
 )
 
 criaCartao(
     'conhecimentos gerais',
-    'pergunta',
-    'resposta'
+    'Qual é o idioma mais falado no mundo, considerando número total de falantes?',
+    'Inglês'
 )

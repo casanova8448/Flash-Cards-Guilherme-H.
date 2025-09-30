@@ -1,6 +1,6 @@
 :root {
-    --text-color: #dbe4ef;
-    --card-font-color: #144480;
+    --text-color: #db0000;
+    --card-font-color: #0703ec;
     --card-back-color: #00f4bf;
     --cor-da-borda:#1509f5;
     --cor-fundo-cartao:#ffffff;
@@ -10,7 +10,7 @@
 
 body {
 
-    background-color: bisque;
+    background-color: rgb(155, 155, 155);
     font-family: 'Bai Jamjuree', sans-serif;
 }
 

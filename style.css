@@ -1,9 +1,9 @@
 :root {
     --text-color: #db0000;
     --card-font-color: #ff0a0a;
-    --card-back-color: #00f4bf;
+    --card-back-color: #000000;
     --cor-da-borda:#ffffff;
-    --cor-fundo-cartao:#ffffff;
+    --cor-fundo-cartao:#f7f7f7;
 }
 
 
